@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mullick-swastik&label=Profile%20views&color=0e75b6&style=flat" alt="mullick-swastik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mullick-swastik" alt="mullick-swastik" /></a> </p>
-
 - 🌱 I’m currently learning **Java, Python, Frontend tools**
 
 - 📫 How to reach me **swastik08122004mullick@gmail.com**
